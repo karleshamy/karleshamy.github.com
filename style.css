@@ -38,6 +38,10 @@ h5{
     color: #F31431;
 }
 
+.address { 
+    text-align: justify 
+}
+
 .btn{
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
 }
